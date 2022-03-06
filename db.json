@@ -1,0 +1,19 @@
+{
+    "fornecedores": [
+        {
+            "nome": "Willian Carminatti",
+            "cnpj": "12346789000165",
+            "segmento": "Desenvolvedor",
+            "telefone_contato": "19981740289",
+            "email_contato": "willian_ctt@outlook.com",
+            "razao_social": "Willian Carminatti",
+            "endereco": {
+                "cep": "13466360",
+                "rua": "Rua paissandu",
+                "numero": "480",
+                "complemento": "Casa de portão verde"
+            },
+            "id": 1
+        }
+    ]
+}
